@@ -1,0 +1,14 @@
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\bin\Debug\iluoKonwerter.exe.config
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\bin\Debug\iluoKonwerter.exe
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\bin\Debug\iluoKonwerter.pdb
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\iluoKonwerter.csprojResolveAssemblyReference.cache
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\MainWindow.g.cs
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\App.g.cs
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\iluoKonwerter_MarkupCompile.cache
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\iluoKonwerter_MarkupCompile.lref
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\MainWindow.baml
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\iluoKonwerter.g.resources
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\iluoKonwerter.Properties.Resources.resources
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\iluoKonwerter.csproj.GenerateResource.Cache
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\iluoKonwerter.exe
+c:\users\softkj\documents\visual studio 2015\Projects\iluoKonwerter\iluoKonwerter\obj\Debug\iluoKonwerter.pdb
